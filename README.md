@@ -1,5 +1,5 @@
 # angular-seed
-## Initial A New Angular Project
+## Initial a new Angular project with Webpack
 1. Clone Repo
 ```Bash
 git clone https://github.com/moshe444/angular-seed.git
